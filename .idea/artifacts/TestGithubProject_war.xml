@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="TestGithubProject:war">
+    <output-path>$PROJECT_DIR$/TestGithubProject/target</output-path>
+    <root id="archive" name="TestGithubProject.war">
+      <element id="artifact" artifact-name="TestGithubProject:war exploded" />
+    </root>
+  </artifact>
+</component>
